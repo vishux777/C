@@ -12,11 +12,8 @@ int main()
             if(j==3){
                 continue;
             }
-            
-            printf("i = %d, j= %d\n", i,j);
-            
+            printf("i = %d, j= %d\n", i,j); 
         }
-      
         printf("\n");
     }
 
